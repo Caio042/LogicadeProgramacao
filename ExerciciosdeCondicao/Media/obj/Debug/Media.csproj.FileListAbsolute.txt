@@ -1,0 +1,7 @@
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\bin\Debug\Media.exe.config
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\bin\Debug\Media.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\bin\Debug\Media.pdb
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\obj\Debug\Media.csprojAssemblyReference.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\obj\Debug\Media.csproj.CoreCompileInputs.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\obj\Debug\Media.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Media\obj\Debug\Media.pdb

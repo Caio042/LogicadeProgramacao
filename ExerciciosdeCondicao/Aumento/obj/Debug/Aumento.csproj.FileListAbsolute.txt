@@ -1,0 +1,7 @@
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\bin\Debug\Aumento.exe.config
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\bin\Debug\Aumento.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\bin\Debug\Aumento.pdb
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\obj\Debug\Aumento.csprojAssemblyReference.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\obj\Debug\Aumento.csproj.CoreCompileInputs.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\obj\Debug\Aumento.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Aumento\obj\Debug\Aumento.pdb

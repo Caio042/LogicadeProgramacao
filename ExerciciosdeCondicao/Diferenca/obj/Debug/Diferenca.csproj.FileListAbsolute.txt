@@ -1,0 +1,6 @@
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Diferenca\bin\Debug\Diferenca.exe.config
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Diferenca\bin\Debug\Diferenca.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Diferenca\bin\Debug\Diferenca.pdb
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Diferenca\obj\Debug\Diferenca.csproj.CoreCompileInputs.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Diferenca\obj\Debug\Diferenca.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Diferenca\obj\Debug\Diferenca.pdb

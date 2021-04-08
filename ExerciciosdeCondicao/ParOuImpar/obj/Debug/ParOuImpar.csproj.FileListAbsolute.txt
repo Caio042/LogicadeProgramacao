@@ -1,0 +1,7 @@
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\bin\Debug\ParOuImpar.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\bin\Debug\ParOuImpar.pdb
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\obj\Debug\ParOuImpar.csprojAssemblyReference.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\obj\Debug\ParOuImpar.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\ParOuImpar\obj\Debug\ParOuImpar.pdb

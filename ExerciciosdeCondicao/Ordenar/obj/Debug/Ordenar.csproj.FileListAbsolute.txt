@@ -1,0 +1,7 @@
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\bin\Debug\Ordenar.exe.config
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\bin\Debug\Ordenar.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\bin\Debug\Ordenar.pdb
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\obj\Debug\Ordenar.csprojAssemblyReference.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\obj\Debug\Ordenar.csproj.CoreCompileInputs.cache
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\obj\Debug\Ordenar.exe
+E:\ETEC\Programação e algoritmo\Exercícios de condição\Ordenar\obj\Debug\Ordenar.pdb
