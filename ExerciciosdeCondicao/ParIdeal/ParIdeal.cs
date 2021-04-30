@@ -10,8 +10,27 @@ namespace ParIdeal
     {
         static void Main(string[] args)
         {
-            // Dei uma pequena roubada no exercício utilizando matriz, para não ter que fazer 50 ifs, ou 50 switch {case 1, case 2...}, espero que tudo bem professora. :)
-
+            /*Desenvolva um programa que sugira uma pessoa como sendo o par ideal. Para faça alguns testes:
+                · Apresente 5 faixas de salário
+                · Entre 1 a 10 salários mínimos.
+                · Apresente 6 escolaridades:
+                    · Não Alfabetizado, Fundamental, Médio, Superior, Mestrado, Doutorado
+                · Apresente as 4 estações do ano
+                    · primavera, verão, outono, inverno
+                · Apresente 5 opções de viagem:
+                    · cidade, campo, praia, radical, cruzeiro
+                · Apresente 5 cores:
+                    · preto, azul, verde, vermelho, branco.
+                · Apresente os gêneros:
+                    · F, M.
+                Ao final, apresente como sugestão de par ideal o nome de uma pessoa qualquer. 
+                O programa deve apresentar nomes diferentes caso a pessoa mude as escolhas. 
+                Vá pontuando conforme as escolhas. 
+                Cada opção possui um valor, por exemplo, a faixa 1 de salário vale 1, a faixa 2 vale 2 e assim por diante. 
+                O menor valor que a pessoa vai obter, escolhendo sempre as opções 1 será 5 pontos. 
+                O gênero não conta ponto. Ao mostrar o par ideal, veja se o gênero é F ou M.
+                Você vai precisar de 25 nomes para cada gênero. */
+            
             string[ , ] nomes = new string [2, 21] { {"Tati Quebra Barraco", "MC Carol", "Vovó Juju",
                     "Jacinda Ardern", "Ana Hickman", "Regina Casé", "Selena Gomez", "Mulher Pepita", "Tupá Guerra", "Débora dos falsetes", 
                     "Simone", "Lara", "ministra Damares", "Hebe Camargo", "Dilma Roussef", 
