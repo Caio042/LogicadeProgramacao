@@ -1,0 +1,7 @@
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\bin\Debug\ParOuImpar.exe
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\bin\Debug\ParOuImpar.pdb
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\obj\Debug\ParOuImpar.csprojAssemblyReference.cache
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\obj\Debug\ParOuImpar.exe
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ParOuImpar\obj\Debug\ParOuImpar.pdb

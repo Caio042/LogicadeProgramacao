@@ -1,0 +1,6 @@
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarTodasOcorrencias\bin\Debug\ProcurarTodasOcorrencias.exe.config
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarTodasOcorrencias\bin\Debug\ProcurarTodasOcorrencias.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarTodasOcorrencias\bin\Debug\ProcurarTodasOcorrencias.pdb
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarTodasOcorrencias\obj\Debug\ProcurarTodasOcorrencias.csproj.CoreCompileInputs.cache
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarTodasOcorrencias\obj\Debug\ProcurarTodasOcorrencias.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarTodasOcorrencias\obj\Debug\ProcurarTodasOcorrencias.pdb

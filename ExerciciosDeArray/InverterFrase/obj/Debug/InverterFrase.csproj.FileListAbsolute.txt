@@ -1,0 +1,7 @@
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\bin\Debug\InverterFrase.exe.config
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\bin\Debug\InverterFrase.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\bin\Debug\InverterFrase.pdb
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\obj\Debug\InverterFrase.csprojAssemblyReference.cache
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\obj\Debug\InverterFrase.csproj.CoreCompileInputs.cache
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\obj\Debug\InverterFrase.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\InverterFrase\obj\Debug\InverterFrase.pdb

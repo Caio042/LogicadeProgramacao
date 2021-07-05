@@ -1,0 +1,6 @@
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Impares\bin\Debug\Impares.exe.config
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Impares\bin\Debug\Impares.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Impares\bin\Debug\Impares.pdb
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Impares\obj\Debug\Impares.csproj.CoreCompileInputs.cache
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Impares\obj\Debug\Impares.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Impares\obj\Debug\Impares.pdb

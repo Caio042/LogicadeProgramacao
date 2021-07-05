@@ -1,0 +1,7 @@
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\bin\Debug\Pares.exe.config
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\bin\Debug\Pares.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\bin\Debug\Pares.pdb
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\obj\Debug\Pares.exe
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\obj\Debug\Pares.pdb
+D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Pares\obj\Debug\Pares.csprojAssemblyReference.cache

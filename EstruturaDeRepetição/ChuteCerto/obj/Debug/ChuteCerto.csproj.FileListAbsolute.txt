@@ -1,0 +1,7 @@
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\bin\Debug\ChuteCerto.exe.config
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\bin\Debug\ChuteCerto.exe
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\bin\Debug\ChuteCerto.pdb
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\obj\Debug\ChuteCerto.csprojAssemblyReference.cache
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\obj\Debug\ChuteCerto.csproj.CoreCompileInputs.cache
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\obj\Debug\ChuteCerto.exe
+D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\ChuteCerto\obj\Debug\ChuteCerto.pdb
