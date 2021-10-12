@@ -1,7 +1,0 @@
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\obj\Debug\OrdenarNumeros.csprojAssemblyReference.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\obj\Debug\OrdenarNumeros.csproj.CoreCompileInputs.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\bin\Debug\OrdenarNumeros.exe.config
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\bin\Debug\OrdenarNumeros.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\bin\Debug\OrdenarNumeros.pdb
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\obj\Debug\OrdenarNumeros.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\OrdenarNumeros\obj\Debug\OrdenarNumeros.pdb

@@ -1,6 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarPrimeiraOcorrencia\bin\Debug\ProcurarPrimeiraOcorrencia.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarPrimeiraOcorrencia\bin\Debug\ProcurarPrimeiraOcorrencia.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarPrimeiraOcorrencia\bin\Debug\ProcurarPrimeiraOcorrencia.pdb
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarPrimeiraOcorrencia\obj\Debug\ProcurarPrimeiraOcorrencia.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarPrimeiraOcorrencia\obj\Debug\ProcurarPrimeiraOcorrencia.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\ProcurarPrimeiraOcorrencia\obj\Debug\ProcurarPrimeiraOcorrencia.pdb

@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\bin\Debug\OrdenarArray.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\bin\Debug\OrdenarArray.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\bin\Debug\OrdenarArray.pdb
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\obj\Debug\OrdenarArray.csprojAssemblyReference.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\obj\Debug\OrdenarArray.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\obj\Debug\OrdenarArray.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\OrdenarArray\obj\Debug\OrdenarArray.pdb

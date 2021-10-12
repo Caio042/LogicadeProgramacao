@@ -1,6 +1,0 @@
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Pesquisa\bin\Debug\Pesquisa.exe.config
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Pesquisa\bin\Debug\Pesquisa.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Pesquisa\bin\Debug\Pesquisa.pdb
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Pesquisa\obj\Debug\Pesquisa.csproj.CoreCompileInputs.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Pesquisa\obj\Debug\Pesquisa.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Pesquisa\obj\Debug\Pesquisa.pdb

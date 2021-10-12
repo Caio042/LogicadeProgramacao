@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\bin\Debug\IndicesDoNome.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\bin\Debug\IndicesDoNome.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\bin\Debug\IndicesDoNome.pdb
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\obj\Debug\IndicesDoNome.csprojAssemblyReference.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\obj\Debug\IndicesDoNome.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\obj\Debug\IndicesDoNome.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\IndicesDoNome\obj\Debug\IndicesDoNome.pdb

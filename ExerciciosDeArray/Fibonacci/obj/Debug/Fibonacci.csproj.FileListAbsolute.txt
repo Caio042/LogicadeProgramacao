@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\bin\Debug\Fibonacci.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\bin\Debug\Fibonacci.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\bin\Debug\Fibonacci.pdb
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\obj\Debug\Fibonacci.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Fibonacci\obj\Debug\Fibonacci.pdb

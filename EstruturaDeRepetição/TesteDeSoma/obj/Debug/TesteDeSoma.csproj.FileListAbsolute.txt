@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\bin\Debug\TesteDeSoma.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\bin\Debug\TesteDeSoma.exe
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\bin\Debug\TesteDeSoma.pdb
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\obj\Debug\TesteDeSoma.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\obj\Debug\TesteDeSoma.exe
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\obj\Debug\TesteDeSoma.pdb
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\TesteDeSoma\obj\Debug\TesteDeSoma.csprojAssemblyReference.cache

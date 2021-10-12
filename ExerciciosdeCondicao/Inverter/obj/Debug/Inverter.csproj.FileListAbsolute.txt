@@ -1,7 +1,0 @@
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\bin\Debug\Inverter.exe.config
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\bin\Debug\Inverter.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\bin\Debug\Inverter.pdb
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\obj\Debug\Inverter.csprojAssemblyReference.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\obj\Debug\Inverter.csproj.CoreCompileInputs.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\obj\Debug\Inverter.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Inverter\obj\Debug\Inverter.pdb

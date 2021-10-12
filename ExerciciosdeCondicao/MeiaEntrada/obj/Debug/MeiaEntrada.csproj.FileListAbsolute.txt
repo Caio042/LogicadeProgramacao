@@ -1,7 +1,0 @@
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\bin\Debug\MeiaEntrada.exe.config
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\bin\Debug\MeiaEntrada.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\bin\Debug\MeiaEntrada.pdb
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\obj\Debug\MeiaEntrada.csprojAssemblyReference.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\obj\Debug\MeiaEntrada.csproj.CoreCompileInputs.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\obj\Debug\MeiaEntrada.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\MeiaEntrada\obj\Debug\MeiaEntrada.pdb

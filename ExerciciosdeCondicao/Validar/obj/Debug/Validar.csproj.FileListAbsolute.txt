@@ -1,6 +1,0 @@
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Validar\bin\Debug\Validar.exe.config
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Validar\bin\Debug\Validar.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Validar\bin\Debug\Validar.pdb
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Validar\obj\Debug\Validar.csproj.CoreCompileInputs.cache
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Validar\obj\Debug\Validar.exe
-E:\ETEC\Programação e algoritmo\Exercícios de condição\Validar\obj\Debug\Validar.pdb

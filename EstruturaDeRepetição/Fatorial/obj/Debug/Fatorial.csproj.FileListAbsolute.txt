@@ -1,6 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\Fatorial\bin\Debug\Fatorial.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\Fatorial\bin\Debug\Fatorial.exe
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\Fatorial\bin\Debug\Fatorial.pdb
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\Fatorial\obj\Debug\Fatorial.exe
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\Fatorial\obj\Debug\Fatorial.pdb

@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\obj\Debug\MaiorGanha.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\bin\Debug\MaiorGanha.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\bin\Debug\MaiorGanha.exe
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\bin\Debug\MaiorGanha.pdb
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\obj\Debug\MaiorGanha.csprojAssemblyReference.cache
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\obj\Debug\MaiorGanha.exe
-D:\Programacao\ETEC\Programação e algoritmo\EstruturaDeRepetição\MaiorGanha\obj\Debug\MaiorGanha.pdb

@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\bin\Debug\Repetidos.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\bin\Debug\Repetidos.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\bin\Debug\Repetidos.pdb
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\obj\Debug\Repetidos.csprojAssemblyReference.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\obj\Debug\Repetidos.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\obj\Debug\Repetidos.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Repetidos\obj\Debug\Repetidos.pdb

@@ -1,7 +1,0 @@
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\bin\Debug\Palindrome.exe.config
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\bin\Debug\Palindrome.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\bin\Debug\Palindrome.pdb
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\obj\Debug\Palindrome.exe
-D:\Programacao\ETEC\Programação e algoritmo\ExerciciosDeArray\Palindrome\obj\Debug\Palindrome.pdb
